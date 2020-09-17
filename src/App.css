@@ -1,9 +1,9 @@
 body {
-  background-color: #9266ff;
+  background-color: hsl(259, 89%, 4%);
 }
 
 .App{
-  background-color: #3f3160;
+  background-color: hsl(258, 91%, 13%);
   min-height: 500px;
   width: 400px;
   margin: 40px auto;
@@ -22,7 +22,7 @@ body {
 }
 
 #to-do-form::placeholder{
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(255, 255, 255, 0.253);
 }
 
 #to-do-form:focus, #to-do-form button:focus{
